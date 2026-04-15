@@ -1,6 +1,6 @@
 {
   "name": "community-desktop",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Podwires Community Desktop — native wrapper for community.podwires.com.",
   "main": "src/main.js",
   "author": {
